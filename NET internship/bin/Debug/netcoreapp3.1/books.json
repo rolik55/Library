@@ -1,0 +1,103 @@
+{
+	"Readers": {
+
+	},
+	"books": [
+		{
+			"Name": "Eloquent JavaScript, Second Edition",
+			"Author": "Marijn Haverbeke",
+			"Category": "Computer & Programming",
+			"Language": "English",
+			"publication_date": "2014-12-14T00:00:00Z",
+			"ISBN": "9781593275846",
+			"IsTaken": false,
+			"PeriodTaken": 0,
+			"DateTaken": "0001-01-01T00:00:00",
+			"TakenBy": ""
+		},
+		{
+			"Name": "Learning JavaScript Design Patterns",
+			"Author": "Addy Osmani",
+			"Category": "Computer & Programming",
+			"Language": "English",
+			"publication_date": "2012-07-01T00:00:00Z",
+			"ISBN": "9781449331818",
+			"IsTaken": false,
+			"PeriodTaken": 0,
+			"DateTaken": "0001-01-01T00:00:00",
+			"TakenBy": ""
+		},
+		{
+			"Name": "Speaking JavaScript",
+			"Author": "Axel Rauschmayer",
+			"Category": "Computer & Programming",
+			"Language": "English",
+			"publication_date": "2014-02-01T00:00:00Z",
+			"ISBN": "9781449365035",
+			"IsTaken": false,
+			"PeriodTaken": 0,
+			"DateTaken": "0001-01-01T00:00:00",
+			"TakenBy": ""
+		},
+		{
+			"Name": "Programming JavaScript Applications",
+			"Author": "Eric Elliott",
+			"Category": "Computer & Programming",
+			"Language": "English",
+			"publication_date": "2014-07-01T00:00:00Z",
+			"ISBN": "9781491950296",
+			"IsTaken": false,
+			"PeriodTaken": 0,
+			"DateTaken": "0001-01-01T00:00:00",
+			"TakenBy": null
+		},
+		{
+			"Name": "Understanding ECMAScript 6",
+			"Author": "Nicholas C. Zakas",
+			"Category": "Computer & Programming",
+			"Language": "English",
+			"publication_date": "2016-09-03T00:00:00Z",
+			"ISBN": "9781593277574",
+			"IsTaken": false,
+			"PeriodTaken": 0,
+			"DateTaken": "0001-01-01T00:00:00",
+			"TakenBy": null
+		},
+		{
+			"Name": "You Don't Know JS",
+			"Author": "Kyle Simpson",
+			"Category": "Computer & Programming",
+			"Language": "English",
+			"publication_date": "2015-12-27T00:00:00Z",
+			"ISBN": "9781491904244",
+			"IsTaken": false,
+			"PeriodTaken": 0,
+			"DateTaken": "0001-01-01T00:00:00",
+			"TakenBy": null
+		},
+		{
+			"Name": "Git Pocket Guide",
+			"Author": "Richard E. Silverman",
+			"Category": "Computer & Programming",
+			"Language": "English",
+			"publication_date": "2013-08-02T00:00:00Z",
+			"ISBN": "9781449325862",
+			"IsTaken": false,
+			"PeriodTaken": 0,
+			"DateTaken": "0001-01-01T00:00:00",
+			"TakenBy": null
+		},
+		{
+			"Name": "Designing Evolvable Web APIs with ASP.NET",
+			"Author": "Glenn Block, et al.",
+			"Category": "Computer & Programming",
+			"Language": "English",
+			"publication_date": "2014-04-07T00:00:00Z",
+			"ISBN": "9781449337711",
+			"IsTaken": false,
+			"PeriodTaken": 0,
+			"DateTaken": "0001-01-01T00:00:00",
+			"TakenBy": null
+		}
+	]
+}
